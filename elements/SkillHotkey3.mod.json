@@ -1,0 +1,15 @@
+{
+  "_fv": 60,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "3",
+    "keyBindingName": "Skill Hotkey 3",
+    "keyBindingCategoryKey": "jjcr",
+    "onKeyPressed": {
+      "name": "SkillHotkey3Pressed"
+    },
+    "onKeyReleased": {
+      "name": "SkillHotkey3Released"
+    }
+  }
+}

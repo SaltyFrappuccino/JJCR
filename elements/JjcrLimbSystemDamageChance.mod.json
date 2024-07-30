@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "JJCR Limb System Damage Chance",
+    "description": "Chance to damage any limb. Default is 60, minimum is 22",
+    "category": "MISC",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 60
+  }
+}

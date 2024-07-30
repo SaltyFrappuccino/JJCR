@@ -1,0 +1,10 @@
+{
+  "_fv": 60,
+  "_type": "command",
+  "definition": {
+    "commandName": "jjcr_setTrait",
+    "type": "STANDARD",
+    "permissionLevel": "2",
+    "argsxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"args_start\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"entity\"><field name=\"name\">name</field><field name=\"type\">players</field><statement name=\"args\"><block type=\"literal\"><field name=\"name\">Lightning</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">SetTraitToLightning</field></block></statement><next><block type=\"literal\"><field name=\"name\">Ice</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">SetTraitToIce</field></block></statement><next><block type=\"literal\"><field name=\"name\">Fire</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">SetTraitToFire</field></block></statement><next><block type=\"literal\"><field name=\"name\">Rough</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">SetTraitToRough</field></block></statement><next><block type=\"literal\"><field name=\"name\">Explosive</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">SetTraitToExplosive</field></block></statement><next><block type=\"literal\"><field name=\"name\">Poison</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">SetTraitToPoison</field></block></statement></block></next></block></next></block></next></block></next></block></next></block></statement></block></next></block></xml>"
+  }
+}

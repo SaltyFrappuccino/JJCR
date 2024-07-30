@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "Cosmetic Skills Voice Over",
+    "description": "Enable/Disable sound & voice effects for skills",
+    "category": "MISC",
+    "defaultValueLogic": true,
+    "defaultValueNumber": 0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "JJCR RCT Output Decreate Value",
+    "description": "How much RCT Output you lose every tick of using RCT",
+    "category": "MISC",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 8
+  }
+}

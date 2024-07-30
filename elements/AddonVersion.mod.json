@@ -1,0 +1,35 @@
+{
+  "_fv": 60,
+  "_type": "overlay",
+  "definition": {
+    "priority": "LOWEST",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_addon_version",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnAddonVersion"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "CENTER",
+          "x": 348,
+          "y": 1
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

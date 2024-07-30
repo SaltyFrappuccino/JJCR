@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "Technique Burnout Healing RCT Cost",
+    "description": "How much RCT it cost to heal your brain.",
+    "category": "MISC",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 500
+  }
+}

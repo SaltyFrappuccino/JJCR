@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "Black Flash Chance",
+    "description": "Chance of getting BF, from 0 to 1000",
+    "category": "MISC",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 20
+  }
+}

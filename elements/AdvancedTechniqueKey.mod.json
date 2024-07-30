@@ -1,0 +1,15 @@
+{
+  "_fv": 60,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "C",
+    "keyBindingName": "Advanced Technique Key",
+    "keyBindingCategoryKey": "jjcr",
+    "onKeyPressed": {
+      "name": "AdvancedTechniqueKeyPriNazhatiiKlavishi"
+    },
+    "onKeyReleased": {
+      "name": "AdvancedTechniqueKeyPriOtpuskaniiKlavishi"
+    }
+  }
+}

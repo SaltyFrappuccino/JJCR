@@ -1,0 +1,20 @@
+{
+  "_fv": 60,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Black Flash",
+    "icon": "particle_black_flash_2_8.png",
+    "color": {
+      "value": -13421773,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onExpired": {
+      "name": "BlackFlashEnded"
+    }
+  }
+}

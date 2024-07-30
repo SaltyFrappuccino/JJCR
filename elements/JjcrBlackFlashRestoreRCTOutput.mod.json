@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "Black Flash Restore RCT Output",
+    "description": "How much RCT Output Black Flash Restores",
+    "category": "MISC",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 500
+  }
+}

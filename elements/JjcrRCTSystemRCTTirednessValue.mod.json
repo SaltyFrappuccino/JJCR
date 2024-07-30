@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "JJCR RCT Tiredness Value",
+    "description": "The rate at which the Player's RCT effectiveness begins to decrease. The default value is 5",
+    "category": "PLAYER",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 5
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "_fv": 60,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "Y",
+    "keyBindingName": "Save Fast Skill",
+    "keyBindingCategoryKey": "jjcr",
+    "onKeyPressed": {
+      "name": "SaveFastSkillPriNazhatiiKlavishi"
+    },
+    "onKeyReleased": {
+      "name": "SaveFastSkillPriOtpuskaniiKlavishi"
+    }
+  }
+}

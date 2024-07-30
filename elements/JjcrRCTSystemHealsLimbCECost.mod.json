@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "Heals Limb CE Cost",
+    "description": "How much CE it cost to heal a limb",
+    "category": "PLAYER",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 100
+  }
+}

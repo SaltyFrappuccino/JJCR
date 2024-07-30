@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "RCT Output to Entity RCT Cost",
+    "description": "How much RCTOutput it cost to use RCT on entity.",
+    "category": "PLAYER",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 100
+  }
+}

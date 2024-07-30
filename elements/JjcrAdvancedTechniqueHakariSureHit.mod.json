@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "Advanced Technique Hakari: Sure Hit",
+    "description": "Enable/Disable Sure Hit for Hakari's DE [Rules of DE].",
+    "category": "MISC",
+    "defaultValueLogic": true,
+    "defaultValueNumber": 0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "Disable Hollow Purple in Domain Expansion",
+    "description": "0 - enable; 1- disable when Gojo's DE opened, 2 - disable when Gojo in any DE",
+    "category": "MISC",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 2
+  }
+}

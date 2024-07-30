@@ -1,0 +1,10 @@
+{
+  "_fv": 60,
+  "_type": "command",
+  "definition": {
+    "commandName": "jjcr_setCursedEnergyColor",
+    "type": "STANDARD",
+    "permissionLevel": "2",
+    "argsxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"args_start\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"literal\"><field name=\"name\">Orange</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">SetCEColorToOrange</field></block></statement><next><block type=\"literal\"><field name=\"name\">Red</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">SetCEColorToRed</field></block></statement><next><block type=\"literal\"><field name=\"name\">Blue</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">SetCEColorToBlue</field></block></statement><next><block type=\"literal\"><field name=\"name\">Green</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">SetCEColorToGreen</field></block></statement></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

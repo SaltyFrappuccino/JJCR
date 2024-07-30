@@ -1,0 +1,15 @@
+{
+  "_fv": 60,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "1",
+    "keyBindingName": "Skill Hotkey 1",
+    "keyBindingCategoryKey": "jjcr",
+    "onKeyPressed": {
+      "name": "SkillHotkey1PriNazhatiiKlavishi"
+    },
+    "onKeyReleased": {
+      "name": "SkillHotkey1PriOtpuskaniiKlavishi"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "Advanced Technique Sukuna: Infinity Dismantle Barrage Cost",
+    "description": "How much CE it cost to use Dismantle Barrage per every full iteration",
+    "category": "MISC",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 100
+  }
+}

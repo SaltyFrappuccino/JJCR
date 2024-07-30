@@ -1,0 +1,171 @@
+{
+  "_fv": 60,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_head_status",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnHeadStatus"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "BOTTOM_LEFT",
+          "x": 6,
+          "y": 8
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_chest_status",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnChestStatus"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "BOTTOM_LEFT",
+          "x": 6,
+          "y": 28
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_belly_status",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnBellyStatus"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "BOTTOM_LEFT",
+          "x": 6,
+          "y": 48
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_r_arm",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnRArm"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "BOTTOM_LEFT",
+          "x": 6,
+          "y": 68
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_l_arm",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnLArm"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "BOTTOM_LEFT",
+          "x": 6,
+          "y": 88
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_r_leg",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnRLeg"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "BOTTOM_LEFT",
+          "x": 6,
+          "y": 108
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_l_leg",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnLLeg"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "BOTTOM_LEFT",
+          "x": 6,
+          "y": 128
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_r_arm_2",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnRArm2"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "BOTTOM_LEFT",
+          "x": 6,
+          "y": 148
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_l_arm_2",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnLArm2"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "BOTTOM_LEFT",
+          "x": 6,
+          "y": 168
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "gridSettings": {
+      "sx": 20,
+      "sy": 20,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "CE Body Strengthening Cost",
+    "description": "How much CE it cost to use Body Strenghthening, in %. ",
+    "category": "MISC",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 100
+  }
+}

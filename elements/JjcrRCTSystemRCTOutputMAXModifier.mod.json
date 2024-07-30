@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "JJCR RCT Output MAX Modifier",
+    "description": "Set the modifier for how much RCT Output is given for each of the levels. The default value is 100",
+    "category": "MISC",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 100
+  }
+}

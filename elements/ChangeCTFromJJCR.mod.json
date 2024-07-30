@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "R",
+    "keyBindingName": "Change CT From JJCR",
+    "keyBindingCategoryKey": "jjcr",
+    "onKeyPressed": {
+      "name": "ChangeCTFromJJCRPressed"
+    }
+  }
+}

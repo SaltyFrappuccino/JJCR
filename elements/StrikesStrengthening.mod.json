@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "X",
+    "keyBindingName": "Strikes Strengthening",
+    "keyBindingCategoryKey": "jjcr",
+    "onKeyPressed": {
+      "name": "CEStrikesStrengthening"
+    }
+  }
+}

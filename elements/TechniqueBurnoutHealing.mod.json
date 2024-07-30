@@ -1,0 +1,15 @@
+{
+  "_fv": 60,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "C",
+    "keyBindingName": "Technique Burnout Healing",
+    "keyBindingCategoryKey": "jjcr",
+    "onKeyPressed": {
+      "name": "TechniqueBurnoutHealingPriNazhatiiKlavishi"
+    },
+    "onKeyReleased": {
+      "name": "TechniqueBurnoutHealingPriOtpuskaniiKlavishi"
+    }
+  }
+}

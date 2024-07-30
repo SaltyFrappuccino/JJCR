@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "RCT Output to Entity Cursed Energy Cost",
+    "description": "How much CE it cost to use RCT on entity.",
+    "category": "PLAYER",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 500
+  }
+}
